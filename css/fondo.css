@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Pacifico');
+*{
+    -webkit-box-sizing: border-box;
+    -moz-sizing: border-box;
+    box-sizing: border-box;
+    font-family: 'Open Sans';
+    padding: 0;
+    margin: 0;
+}
+body {
+  padding-bottom: 20px;
+  background: url(../imgs/fondoCircuitos.jpg);
+  background-size: contain;
+  background-attachment: fixed;
+}

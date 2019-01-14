@@ -1,0 +1,25 @@
+p, h1{
+    max-width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+h1{
+    font-weight: normal;
+    padding-bottom: 35px;
+}
+.contacto{
+  padding: 60px 50px;
+  margin-top: 120px;
+  border: 1px solid #1ea7f4;
+}
+.contacto:hover{
+  box-shadow: 5px 0px 40px rgba(255, 255, 255, 0.2);
+}
+.carta1{
+  background-color: rgba(255, 255, 255, 0.80);
+  text-align: center;
+}
+.contacto img{
+  width: 18rem;
+  padding: 30px;
+}

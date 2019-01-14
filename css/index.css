@@ -1,0 +1,51 @@
+hr{
+    height: 1px;
+    border: none;
+    background: #7a7a7a;
+    max-width: 80%;
+    margin: 0 auto;
+}
+p, h1{
+    max-width: 80%;
+    margin: 20px auto;
+}
+h1{
+    font-weight: normal;
+}
+.nosotros{
+  padding: 60px 50px;
+}
+.carta1{
+  background-color: rgba(255, 255, 255, 0.80);
+}
+.carta2{
+  background-color: rgba(0, 0, 0, 0.80);
+}
+.luz: hover{
+  box-shadow: 5px 0px 40px rgba(255, 255, 255, 0.2);
+}
+.product-device {
+  position: absolute;
+  right: 10%;
+  bottom: -30%;
+  width: 300px;
+  height: 540px;
+  background-color: #333;
+  border-radius: 21px;
+  -webkit-transform: rotate(30deg);
+  transform: rotate(30deg);
+}
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: 1px solid #e5e5e5; }
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+.flex-equal > * {
+  -ms-flex: 1;
+  flex: 1;
+}
+@media (min-width: 768px) {
+  .flex-md-equal > * {
+    -ms-flex: 1;
+    flex: 1;
+  }
+}
+.overflow-hidden { overflow: hidden; }
